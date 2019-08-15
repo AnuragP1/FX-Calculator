@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FX-Calculator/static/css/main.dcb2503c.chunk.css",
+    "main.js": "/FX-Calculator/static/js/main.4adf0c54.chunk.js",
+    "main.js.map": "/FX-Calculator/static/js/main.4adf0c54.chunk.js.map",
+    "runtime~main.js": "/FX-Calculator/static/js/runtime~main.e6f7785b.js",
+    "runtime~main.js.map": "/FX-Calculator/static/js/runtime~main.e6f7785b.js.map",
+    "static/js/2.efde1aae.chunk.js": "/FX-Calculator/static/js/2.efde1aae.chunk.js",
+    "static/js/2.efde1aae.chunk.js.map": "/FX-Calculator/static/js/2.efde1aae.chunk.js.map",
+    "index.html": "/FX-Calculator/index.html",
+    "precache-manifest.60e488ae761c09705623362435193a0a.js": "/FX-Calculator/precache-manifest.60e488ae761c09705623362435193a0a.js",
+    "service-worker.js": "/FX-Calculator/service-worker.js",
+    "static/css/main.dcb2503c.chunk.css.map": "/FX-Calculator/static/css/main.dcb2503c.chunk.css.map"
+  }
+}
